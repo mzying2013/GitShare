@@ -21,7 +21,7 @@
 - 压缩传输 `Git压缩传输，SVN是一个一个文件传输`
 
 
-- *无悲观锁 `无法锁定文件`*
+- *无悲观锁 `无法锁定文件（缺点）`*
 
 
 ![SVN vs Git](http://192.168.1.215:8088/raw/~liumin/GitShare.git/master/git-migration-centralized-vs-distributed.png)
@@ -31,14 +31,24 @@
 ##服务端&Demo
 >GitBlit [`http://192.168.1.215:8088/`](http://192.168.1.215:8088/)
 
-- 库
-- 用户
+- 库 `创建远程库`
+- 协议 `git://` `http(s)://` **`ssh://`**
+- 用户 `组` `用户` `权限` `SSH KEY`
 
 
 
 
 ##客服端&Demo
 >[SourceTree](https://www.sourcetreeapp.com/)
+
+- 创建库 `克隆服务库` `创建本地库` `添加已存在的本地库`
+- **操作库** `提交` `拉取` `分支` `合并` `冲突` `回滚` `标签` `贮藏` 
+
+
+
+##SVN to Git
+
+
 
 
 
