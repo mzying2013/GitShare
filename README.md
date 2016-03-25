@@ -6,8 +6,9 @@
 
 
 
-##GIT vs SVN
-
+##Git vs SVN
+![SVN](http://192.168.1.215:8088/raw/~liumin/GitShare.git/master/SVN.png)
+![Git](http://192.168.1.215:8088/raw/~liumin/GitShare.git/master/Git.png)
 
 
 
