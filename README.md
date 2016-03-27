@@ -42,7 +42,7 @@
 >[Git客服端](https://git-scm.com/downloads/guis) [`(SourceTree)`](https://www.sourcetreeapp.com/)
 
 - 创建库 `克隆服务库` `创建本地库` `添加已存在的本地库`
-- **操作库** `提交` `拉取` `分支` `合并` `冲突` `回滚` `标签` `贮藏` 
+- **操作库** `提交` `拉取` `分支` `合并` `冲突` `回滚` `标签` `贮藏` `通知`
 
 
 ##SVN to Git
