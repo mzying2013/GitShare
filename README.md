@@ -33,13 +33,18 @@
 
 - 库 `创建远程库`
 - 协议 `git://` `http(s)://` **`ssh://`**
-- 用户 `组` `用户` `权限` `SSH KEY`
+- 用户 `用户``组` `权限` `SSH KEY`
+
+#####创建SSH KEY
+- 1. ssh-keygen
+- 2. SSH key文件保存在 ~/.ssh/xxx_id_rsa.pub
+- 3. cat xxx_id_rsa.pub，复制内容到Git账号
 
 
 
 
 ##客服端&Demo
->[Git客服端](https://git-scm.com/downloads/guis) [`(SourceTree)`](https://www.sourcetreeapp.com/)
+>[Git客服端](https://git-scm.com/downloads/guis) ：[`SourceTree`](https://www.sourcetreeapp.com/)
 
 - 创建库 `克隆服务库` `创建本地库` `添加已存在的本地库`
 - **操作库** `提交` `拉取` `分支` `合并` `冲突` `回滚` `标签` `贮藏` `通知`
