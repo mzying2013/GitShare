@@ -1,4 +1,4 @@
-![Git Logo](http://192.168.1.215:8088/raw/~liumin/GitShare.git/master/logo@2x.png)
+![Git Logo](https://github.com/mzying2013/GitShare/blob/master/logo@2x.png?raw=true)
 
 
 >Git是一款`免费`、`开源的`、`分布式版本`控制系统，用于敏捷高效地处理任何或小或大的项目。最初由`林纳斯·托瓦兹（Linus Torvalds）`创作。
@@ -24,7 +24,7 @@
 - *无悲观锁 `无法锁定文件（缺点）`*
 
 
-![SVN vs Git](http://192.168.1.215:8088/raw/~liumin/GitShare.git/master/git-migration-centralized-vs-distributed.png)
+![SVN vs Git](https://github.com/mzying2013/GitShare/blob/master/git-migration-centralized-vs-distributed.png?raw=true)
 
 
 
