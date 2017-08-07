@@ -1,3 +1,5 @@
+
+
 ![Git Logo](https://github.com/mzying2013/GitShare/blob/master/logo@2x.png?raw=true)
 
 
@@ -44,7 +46,7 @@
 
 ## Git关键词
 
-- 工作区，暂存区，版本库。暂存区是为了原子性
+- 工作区，版本库。暂存区是为了原子性
   1. 分批、分阶段递交 
   2. 进行快照，便于回退
 
@@ -57,7 +59,11 @@
 
 
 
-- 本地协议（Local），HTTP 协议，**SSH（Secure Shell）**协议及 Git 协议（最快，缺乏授权机制）
+- 协议
+  1. 本地协议（Local）
+  2. HTTP(S)（效率低，开销大）
+  3. **SSH（Secure Shell）**（安全，压缩）
+  4. Git 协议（最快，缺乏授权机制）
 
 
 ![ssh&git协议](https://github.com/mzying2013/GitShare/blob/master/ssh_http_proxy.png?raw=true)
@@ -90,9 +96,7 @@
 
 - 用户 `用户` `组`
 - 库 `创建远程库`
-- 协议
-  1.  `http(s)://` 效率低，开销大。
-  2.  **`ssh://`**安全，压缩。（非默认id_rsa默认命名）
+- ssh（非默认id_rsa默认命名）
 
 <br/><br/><br/><br/><br/><br/>
 
@@ -107,10 +111,10 @@
 
 #####操作库 
 - 拉取，提交
-- 分支，标签 `master分支` `developer分支` `fix分支`
+- 分支`master分支` `developer分支` `fix分支` `Git Flow`，标签 
 - 冲突 `手动解决冲突` `使用我的版本解决冲突` `使用服务器版本解决冲突
 - 回滚 `回滚行` `回滚工作目录` `回滚提交`
-- 暂存，遴选，强制推送，...
+- 暂存，遴选，强制推送，日志模板，...
 
 
 <br/><br/><br/><br/><br/><br/>
