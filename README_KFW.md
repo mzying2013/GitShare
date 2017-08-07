@@ -54,7 +54,7 @@
 
 ![三个区域图示](https://github.com/mzying2013/GitShare/blob/master/%E4%B8%89%E4%B8%AA%E5%8C%BA%E5%9F%9F%E5%9B%BE%E7%A4%BA.jpeg?raw=true)
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 
@@ -65,7 +65,7 @@
 
 ![ssh&git协议](https://github.com/mzying2013/GitShare/blob/master/ssh_http_proxy.png?raw=true)
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 
@@ -91,15 +91,9 @@
 ## 服务端&Demo
 > [GitLab](http://172.16.2.187/)
 
+- 用户 `用户` `组`
 - 库 `创建远程库`
-- 协议 `http(s)://` **`ssh://`**
-- 用户 `用户``组` `权限` `SSH KEY`
-
-#####创建SSH KEY
-- 1. ssh-keygen
-- 2. SSH key文件保存在 ~/.ssh/xxx_id_rsa.pub
-- 3. cat xxx_id_rsa.pub，复制内容到Git账号
-
+- 协议 `http(s)://` **`ssh://`**（SSH KEY）
 
 
 
