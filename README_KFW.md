@@ -41,12 +41,21 @@
 ![三个区域图示](https://github.com/mzying2013/GitShare/blob/master/%E4%B8%89%E4%B8%AA%E5%8C%BA%E5%9F%9F%E5%9B%BE%E7%A4%BA.jpeg?raw=true)
 
 - 本地协议（Local），HTTP 协议，**SSH（Secure Shell）**协议及 Git 协议（最快，缺乏授权机制）
+
+
+![ssh&git协议](https://github.com/mzying2013/GitShare/blob/master/ssh_http_proxy.png?raw=true)
+
 - 快照
   1. 变更文件的copy，而非diff。
   2. 查看版本直接load，不需要merge。空间换时间。
   3. .git文件会定期优化，保证快照空间和读取时间的平衡。
-- ​
 
+
+![差异化图示](https://github.com/mzying2013/GitShare/blob/master/%E5%B7%AE%E5%BC%82%E6%80%A7%E6%AF%94%E8%BE%83.png?raw=true)
+
+
+
+![快照图示](https://github.com/mzying2013/GitShare/blob/master/%E5%BF%AB%E7%85%A7%E6%AF%94%E8%BE%83.png?raw=true)
 
 
 
