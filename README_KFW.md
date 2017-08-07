@@ -36,6 +36,10 @@
 - 工作区，暂存区，版本库。暂存区是为了原子性
   1. 分批、分阶段递交 
   2. 进行快照，便于回退
+
+
+![三个区域图示](https://github.com/mzying2013/GitShare/blob/master/%E4%B8%89%E4%B8%AA%E5%8C%BA%E5%9F%9F%E5%9B%BE%E7%A4%BA.jpeg?raw=true)
+
 - 本地协议（Local），HTTP 协议，**SSH（Secure Shell）**协议及 Git 协议（最快，缺乏授权机制）
 - 快照
   1. 变更文件的copy，而非diff。
