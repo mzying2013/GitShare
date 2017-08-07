@@ -13,6 +13,20 @@
 - ...
 
 
+![Github_logo](https://github.com/mzying2013/GitShare/blob/master/GitHub-Mark.png?raw=true)
+
+
+
+![apple](https://github.com/mzying2013/GitShare/blob/master/apple_github.png?raw=true)
+
+![google](https://github.com/mzying2013/GitShare/blob/master/google_github.png?raw=true)
+
+<br/><br/><br/><br/><br/><br/>
+
+
+
+
+
 
 ## Git vs SVN
 
