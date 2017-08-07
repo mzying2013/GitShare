@@ -89,21 +89,22 @@
 
 
 ## 服务端&Demo
-> [GitLab](http://172.16.2.187/)
+> [**GitLab**](http://172.16.2.187/) / Gitblit
 
 - 用户 `用户` `组`
 - 库 `创建远程库`
-- 协议 `http(s)://` **`ssh://`**（SSH KEY）
+- 协议
+  1.  `http(s)://` 效率低，开销大。
+  2.  **`ssh://`**安全，压缩。（非默认id_rsa默认命名）
 
-
+<br/><br/><br/><br/><br/><br/>
 
 ## 客服端&Demo
->[Git客服端](https://git-scm.com/downloads/guis) ：[`SourceTree`](https://www.sourcetreeapp.com/)
+>[Git客服端](https://git-scm.com/downloads/guis) ：![SourceTree](https://github.com/mzying2013/GitShare/blob/master/SourceTree.png?raw=true)
 
 #####创建库
 - 克隆服务库 
-- 创建本地库
-- 添加已存在的本地库
+- 创建本地库（git init）
 
 #####操作库 
 - 提交
@@ -112,8 +113,10 @@
 - 冲突 `避免冲突` `手动解决冲突` `使用我的版本解决冲突` `使用服务器版本解决冲突`
 - 图表
 - 回滚 `回滚行` `回滚工作目录` `回滚文件` `回滚提交`
-- 贮藏
+- 暂存
 
+
+<br/><br/><br/><br/><br/><br/>
 
 ##SVN to Git
 >[subgit](http://www.subgit.com/)
