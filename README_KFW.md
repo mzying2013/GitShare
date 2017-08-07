@@ -99,7 +99,7 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-## 客服端&Demo
+## 客户端&Demo
 >[Git客服端](https://git-scm.com/downloads/guis) ：![SourceTree](https://github.com/mzying2013/GitShare/blob/master/SourceTree.png?raw=true)
 
 #####创建库
