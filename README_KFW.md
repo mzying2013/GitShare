@@ -10,10 +10,8 @@
 - PHP
 - Git
 - Ruby
-- ![Github_logo](https://github.com/mzying2013/GitShare/blob/master/GitHub-Mark.png?raw=true)
 
-
-
+![Github_logo](https://github.com/mzying2013/GitShare/blob/master/GitHub-Mark.png?raw=true)
 
 ![apple](https://github.com/mzying2013/GitShare/blob/master/apple_github.png?raw=true)
 
