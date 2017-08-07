@@ -105,11 +105,11 @@
 
 ![SourceTree](https://github.com/mzying2013/GitShare/blob/master/SourceTree.png?raw=true)
 
-#####创建库
+##### 创建库
 - 克隆服务库 
 - 创建本地库（git init）
 
-#####操作库 
+##### 操作库 
 - 拉取，提交
 - 分支`master分支` `developer分支` `fix分支` `Git Flow`，标签 
 - 冲突 `手动解决冲突` `使用我的版本解决冲突` `使用服务器版本解决冲突
@@ -119,7 +119,7 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-##SVN to Git
+## SVN to Git
 >[subgit](http://www.subgit.com/)
 
 ![svn convert git](https://github.com/mzying2013/GitShare/blob/master/svn-convert-git.png?raw=true)
