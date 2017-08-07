@@ -10,10 +10,8 @@
 - PHP
 - Git
 - Ruby
-- ...
+- ![Github_logo](https://github.com/mzying2013/GitShare/blob/master/GitHub-Mark.png?raw=true)
 
-
-![Github_logo](https://github.com/mzying2013/GitShare/blob/master/GitHub-Mark.png?raw=true)
 
 
 
@@ -42,6 +40,10 @@
 | 无        | 重命名追踪              |
 | 无        | 暂存区                |
 | **可以锁定** | 无悲观锁（缺点）           |
+
+<br/><br/><br/><br/><br/><br/>
+
+
 
 
 
