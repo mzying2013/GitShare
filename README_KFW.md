@@ -40,10 +40,22 @@
 
 ![三个区域图示](https://github.com/mzying2013/GitShare/blob/master/%E4%B8%89%E4%B8%AA%E5%8C%BA%E5%9F%9F%E5%9B%BE%E7%A4%BA.jpeg?raw=true)
 
+<br/><br/><br/><br/><br/><br/>
+
+
+
+
+
 - 本地协议（Local），HTTP 协议，**SSH（Secure Shell）**协议及 Git 协议（最快，缺乏授权机制）
 
 
 ![ssh&git协议](https://github.com/mzying2013/GitShare/blob/master/ssh_http_proxy.png?raw=true)
+
+<br/><br/><br/><br/><br/><br/>
+
+
+
+
 
 - 快照
   1. 变更文件的copy，而非diff。
@@ -56,6 +68,10 @@
 
 
 ![快照图示](https://github.com/mzying2013/GitShare/blob/master/%E5%BF%AB%E7%85%A7%E6%AF%94%E8%BE%83.png?raw=true)
+
+<br/><br/><br/><br/><br/><br/>
+
+
 
 
 
