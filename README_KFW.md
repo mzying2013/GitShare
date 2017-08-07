@@ -88,7 +88,7 @@
 
 
 
-## 服务端&Demo
+## 服务端
 > [**GitLab**](http://172.16.2.187/) / Gitblit
 
 - 用户 `用户` `组`
@@ -99,8 +99,10 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-## 客户端&Demo
->[Git客服端](https://git-scm.com/downloads/guis) ：![SourceTree](https://github.com/mzying2013/GitShare/blob/master/SourceTree.png?raw=true)
+## 客户端
+>[Git客服端](https://git-scm.com/downloads/guis) ：
+
+![SourceTree](https://github.com/mzying2013/GitShare/blob/master/SourceTree.png?raw=true)
 
 #####创建库
 - 克隆服务库 
@@ -109,10 +111,9 @@
 #####操作库 
 - 拉取，提交
 - 分支，标签 `master分支` `developer分支` `fix分支`
-- 冲突 `手动解决冲突` `使用我的版本解决冲突` `使用服务器版本解决冲突`
-- 图表
-- 回滚 `回滚行` `回滚工作目录` `回滚文件` `回滚提交`
-- 暂存
+- 冲突 `手动解决冲突` `使用我的版本解决冲突` `使用服务器版本解决冲突
+- 回滚 `回滚行` `回滚工作目录` `回滚提交`
+- 暂存，遴选
 
 
 <br/><br/><br/><br/><br/><br/>
