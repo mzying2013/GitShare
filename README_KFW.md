@@ -14,7 +14,7 @@
 
 
 
-##Git vs SVN
+## Git vs SVN
 
 ![SVN vs Git](https://github.com/mzying2013/GitShare/blob/master/svn-vs-git.png?raw=true)
 
@@ -74,10 +74,7 @@
 
 
 
-
-
-
-##服务端&Demo
+## 服务端&Demo
 > [GitLab](http://172.16.2.187/)
 
 - 库 `创建远程库`
@@ -92,7 +89,7 @@
 
 
 
-##客服端&Demo
+## 客服端&Demo
 >[Git客服端](https://git-scm.com/downloads/guis) ：[`SourceTree`](https://www.sourcetreeapp.com/)
 
 #####创建库
